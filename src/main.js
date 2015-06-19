@@ -1,4 +1,4 @@
-console.log('----- KSL Cars Plus extension -----');
+console.log('----- ML Tools.jshintrc extension -----');
 
 var edmunds = require('./edmunds.js');
 var scraper = require('./scraper.js');
